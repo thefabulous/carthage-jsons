@@ -4,5 +4,5 @@
   "4.12.0":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/4.12.0/Storage-4721c35d2b90a569.zip?raw=true",
   "5.1.0":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/5.1.0/Storage-47c289743f8b650d.zip?raw=true",
   "5.20.2":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/5.20.2/Storage-f509e10e8fc47048.zip?raw=true",
-  "6.3.0":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/6.3.0/Storage-21f2dd06c53f3eef.zip?raw=true"
+  "6.3.0":"https://github.com/thefabulous/carthage-binaries/blob/feature/updateFirebaseTo6.3.0/Firebase/6.3.0/Storage-21f2dd06c53f3eef.zip?raw=true"
 }
