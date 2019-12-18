@@ -4,5 +4,6 @@
   "4.12.0":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/4.12.0/RemoteConfig-e7928fcb6311c439.zip?raw=true",
   "5.1.0":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/5.1.0/RemoteConfig-9f1ffb83a992b57e.zip?raw=true",
   "5.20.2":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/5.20.2/RemoteConfig-42f1116558e84ccb.zip?raw=true",
-  "6.4.0":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/6.4.0/RemoteConfig-092685c44b88da86.zip?raw=true"
+  "6.4.0":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/6.4.0/RemoteConfig-092685c44b88da86.zip?raw=true",
+  "6.14.0":"https://github.com/thefabulous/carthage-binaries/blob/Firebase614/Firebase/6.14.0/RemoteConfig-120e0a49b8ce6f4d.zip?raw=true"
 }

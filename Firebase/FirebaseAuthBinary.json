@@ -4,5 +4,6 @@
   "4.12.0":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/4.12.0/Auth-5ddd2b4351012c7a.zip?raw=true",
   "5.1.0":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/5.1.0/Auth-cb14821201343a58.zip?raw=true",
   "5.20.2":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/5.20.2/Auth-515ecac18024d7e8.zip?raw=true",
-  "6.4.0":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/6.4.0/Auth-e67c1a6f98b7d8e4.zip?raw=true"
+  "6.4.0":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/6.4.0/Auth-e67c1a6f98b7d8e4.zip?raw=true",
+  "6.14.0":"https://github.com/thefabulous/carthage-binaries/blob/Firebase614/Firebase/6.14.0/Auth-8db371ab7964aafe.zip?raw=true"
 }
