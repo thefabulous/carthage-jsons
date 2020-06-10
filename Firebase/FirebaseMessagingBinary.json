@@ -5,5 +5,6 @@
   "5.1.0":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/5.1.0/Messaging-5f32a54683d33732.zip?raw=true",
   "5.20.2":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/5.20.2/Messaging-d3673b7c5d795ee6.zip?raw=true",
   "6.4.0":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/6.4.0/Messaging-616049b1ebd8b823.zip?raw=true",
-  "6.14.0":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/6.14.0/Messaging-61e33c6531a29193.zip?raw=true"
+  "6.14.0":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/6.14.0/Messaging-61e33c6531a29193.zip?raw=true",
+  "6.26.0":"https://github.com/thefabulous/carthage-binaries/blob/master/Firebase/6.26.0/FirebaseMessaging-57e44f42fecf02e8.zip?raw=true"
 }
